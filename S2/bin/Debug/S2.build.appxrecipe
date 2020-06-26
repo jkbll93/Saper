@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LEN</Machine>
+    <WindowsUser>jl</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d2270cb1-951d-4587-9563-4e13df525320</PackageIdentityName>
+    <PackageIdentityPublisher>CN=jl</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\S2.exe">
+      <PackagePath>S2.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\bomb.png">
+      <PackagePath>Images\bomb.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\click.png">
+      <PackagePath>Images\click.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\cztery.png">
+      <PackagePath>Images\cztery.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\dwa.png">
+      <PackagePath>Images\dwa.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\flaga.png">
+      <PackagePath>Images\flaga.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\flaga_zle.png">
+      <PackagePath>Images\flaga_zle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\jeden.png">
+      <PackagePath>Images\jeden.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\osiem.png">
+      <PackagePath>Images\osiem.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\piec.png">
+      <PackagePath>Images\piec.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\puste.png">
+      <PackagePath>Images\puste.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\siedem.png">
+      <PackagePath>Images\siedem.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\smile.png">
+      <PackagePath>Images\smile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\szesc.png">
+      <PackagePath>Images\szesc.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\Images\trzy.png">
+      <PackagePath>Images\trzy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\S2.xr.xml">
+      <PackagePath>S2.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Studia\Przedmioty\Programowanie urządzeń mobilnych w systemach Windows\Laboratorium\ProjektKoncowy\S2\S2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
